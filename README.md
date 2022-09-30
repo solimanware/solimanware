@@ -24,15 +24,15 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/solimanware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="solimanware" height="30" width="40" /></a>
-<a href="https://dev.to/smsmsware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="smsmsware" height="30" width="40" /></a>
+<a href="https://dev.to/solimanware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="smsmsware" height="30" width="40" /></a>
 <a href="https://twitter.com/solimanware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="solimanware" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/solimanware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="solimanware" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/4591364" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4591364" height="30" width="40" /></a>
 <a href="https://codesandbox.com/solimanware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="solimanware" height="30" width="40" /></a>
-<a href="https://fb.com/solimanware.public" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="solimanware" height="30" width="40" /></a>
-<a href="https://instagram.com/prof.o.soliman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prof.o.soliman" height="30" width="40" /></a>
-<a href="https://www.behance.net/microsmsm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="microsmsm" height="30" width="40" /></a>
-<a href="https://medium.com/@microsmsm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@microsmsm" height="30" width="40" /></a>
+<a href="https://fb.com/solimanware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="solimanware" height="30" width="40" /></a>
+<a href="https://instagram.com/solimanware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prof.o.soliman" height="30" width="40" /></a>
+<a href="https://www.behance.net/solimanware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="microsmsm" height="30" width="40" /></a>
+<a href="https://medium.com/@solimanware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@microsmsm" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/practicaljs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="practicaljs" height="30" width="40" /></a>
 </p>
 
